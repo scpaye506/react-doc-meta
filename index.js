@@ -1,7 +1,7 @@
 'use strict';
 
 var React = require('react'),
-    createSideEffect = require('react-side-effect');
+    createSideEffect = require('./node_modules/react-side-effect');
 
 var _serverMeta = [];
 
